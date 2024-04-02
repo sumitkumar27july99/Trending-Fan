@@ -1,0 +1,1 @@
+Hi this project is just for fun and folowing instagram trend of fan in which everyone is uploading a fan video of ther releted fan like a gamer usse to upload a cpu fan and normal person use to upload there cealing fan so i use to upload my own fan using Html and Css.
